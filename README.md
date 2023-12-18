@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mittalakshit4@gmail.com**
 
-- ⚡ Fun fact **I think I am a tech connoisseur**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@akshit5544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshit5544" height="30" width="40" /></a>
