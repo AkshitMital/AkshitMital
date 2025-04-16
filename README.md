@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@akshit5544" target="blank"><img src="https://img.shields.io/twitter/follow/@akshit5544?logo=twitter&style=for-the-badge" alt="@akshit5544" /></a> </p>
 
-- 🌱 I’m currently learning **Web3 and Blockchain**
-
-- 💬 Ask me about **MERN Stack**
+- 🌱 I’m currently learning **Web Development and Machine Leanring**
 
 - 📫 How to reach me **mittalakshit4@gmail.com**
 
