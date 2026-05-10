@@ -34,9 +34,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Teaching+machines+to+think%2C+one+model+at+a+time;AI+Engineer+%7C+NLP+%7C+LLMs+%7C+MLOps;Where+Neural+Networks+meet+Real-World+Impact;DTU+EE+%2B+CS+Minor+%7C+BlackRock+%7C+Building+the+Future;From+Raw+Data+to+Intelligent+Decisions;Exploring+the+Frontier+of+Agentic+AI+Systems" alt="Typing SVG" />
 </p>
-
 <br/>
-
 ---
 
 ## `whoami`
@@ -307,41 +305,6 @@ print(me.philosophy())
     <img alt="github-snake" src="https://raw.githubusercontent.com/AkshitMital/AkshitMital/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
-
-<details>
-<summary><strong>One-time Snake Setup — click to expand</strong></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo (`AkshitMital/AkshitMital`):
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then: **Actions tab → Generate Snake Animation → Run workflow**. Done in 30 seconds.
-
-</details>
 
 <br/>
 
