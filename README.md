@@ -235,12 +235,6 @@ print(me.philosophy())
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkshitMital&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6a00f4&text_color=c9d1d9&ring_color=a855f7" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitMital&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=AkshitMital&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=6a00f4&fire=ff6b6b&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e" width="60%"/>
 </p>
 
