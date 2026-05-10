@@ -34,7 +34,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Teaching+machines+to+think%2C+one+model+at+a+time;AI+Engineer+%7C+NLP+%7C+LLMs+%7C+MLOps;Where+Neural+Networks+meet+Real-World+Impact;DTU+EE+%2B+CS+Minor+%7C+BlackRock+%7C+Building+the+Future;From+Raw+Data+to+Intelligent+Decisions;Exploring+the+Frontier+of+Agentic+AI+Systems" alt="Typing SVG" />
 </p>
-<br/>
+
 ---
 
 ## `whoami`
@@ -67,8 +67,6 @@ print(me.philosophy())
 # -> "Don't just use AI — understand it, build it, deploy it."
 ```
 
-<br/>
-
 ---
 
 ## What I'm Up To
@@ -95,8 +93,6 @@ print(me.philosophy())
     <td>Elite product companies & HFT firms — systems that matter at scale</td>
   </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -153,8 +149,6 @@ print(me.philosophy())
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-<br/>
 
 ---
 
@@ -236,8 +230,6 @@ print(me.philosophy())
   </tr>
 </table>
 
-<br/>
-
 ---
 
 ## 📊 GitHub Stats
@@ -256,8 +248,6 @@ print(me.philosophy())
   <img src="https://github-profile-trophy.vercel.app/?username=AkshitMital&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
 </p>
 
-<br/>
-
 ---
 
 ## 📈 Contribution Activity
@@ -265,8 +255,6 @@ print(me.philosophy())
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitMital&bg_color=0d1117&color=a855f7&line=6a00f4&point=ffffff&area=true&hide_border=true&area_color=6a00f420" width="100%"/>
 </p>
-
-<br/>
 
 ---
 
@@ -281,8 +269,6 @@ print(me.philosophy())
  Rust for Systems              ███████░░░░░░░░░  44%
 ```
 
-<br/>
-
 ---
 
 ## 💼 Experience
@@ -291,8 +277,6 @@ print(me.philosophy())
 |--------|------|-------------|-------|
 | 2024 – Present | **Software Engineer Intern** | BlackRock, Mumbai | FastAPI · Pandas · React.js · spaCy · NLP |
 | 2022 – 2026 | **B.Tech EE + CS Minor** | Delhi Technological University | ML · DSA · Systems · Web |
-
-<br/>
 
 ---
 
@@ -306,8 +290,6 @@ print(me.philosophy())
   </picture>
 </p>
 
-<br/>
-
 ---
 
 ## 💬 Words I Code By
@@ -317,8 +299,6 @@ print(me.philosophy())
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
-<br/>
 
 ---
 
@@ -345,8 +325,6 @@ print(me.philosophy())
 <p align="center">
   <em>Open to <strong>AI/ML roles</strong>, <strong>SWE internships</strong>, <strong>research collaborations</strong>, and <strong>startup conversations</strong></em>
 </p>
-
-<br/>
 
 <!-- ANIMATED FOOTER WAVE -->
 <p align="center">
