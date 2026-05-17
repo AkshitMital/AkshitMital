@@ -46,7 +46,7 @@ class AkshitMittal:
         self.name            = "Akshit Mittal"
         self.role            = "AI Engineer & Software Engineer"
         self.education       = "B.Tech EE + CS Minor @ DTU (2026)"
-        self.currently       = "SWE Intern @ BlackRock, Mumbai"
+        self.currently       = "SWE Intern @ BlackRock, Delhi"
         self.location        = "New Delhi, India"
         self.focus_areas     = [
             "Large Language Models (LLMs)",
